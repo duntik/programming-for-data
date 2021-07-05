@@ -20,24 +20,17 @@ Data Analysis and Python (June 2021)
 </p>
   
 ## Course Pathway :capital_abcd:
-### SESSION 1
 
-:heavy_check_mark: **SPRINT 1**
-
-Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard") 
-
-:heavy_check_mark: **SPRINT 2**
-
-Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard") 
-
-:heavy_check_mark: **SPRINT 3**
-
-[Hello World](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%203 "Hello World") 
-
-:o: **SPRINT 4**
-
-[Ex. 1-2](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%204 "Ex. 1-2") 
-
+| SESSION 1  | SESSION 2  | SESSION 3 | SESSION 4 |
+| :------------ |:---------------:|:---------------:| -----:|
+| :heavy_check_mark: *SPRINT 1* | *SPRINT 1* | *SPRINT 1* | *SPRINT 1* |
+| Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard")      | Res2 | Res3 | Res4 |
+| :heavy_check_mark: *SPRINT 2*    | *SPRINT 2* | *SPRINT 2* | *SPRINT 2* |
+| Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard")   | Res2 | Res3 | Res4 |
+| :heavy_check_mark: *SPRINT 3*     | *SPRINT 3* | *SPRINT 3* | *SPRINT 3* |
+| [Hello World](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%203 "Hello World")  | Res2 | Res3 | Res4 |
+| :o: *SPRINT 4*      | *SPRINT 4* |
+| [Ex. 1-2](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%204 "Ex. 1-2") | Res2 |
 
 
 
