@@ -9,5 +9,6 @@
 > 
 > Course runned by Karen Scott and Lila Rose
 
+</h2>
 ### Course Pathway
 
