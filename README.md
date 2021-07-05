@@ -14,4 +14,4 @@ Data Analysis and Python (June 2021)
 </h3>
 
 ### Course Pathway
-
+**SPRINT 1**
