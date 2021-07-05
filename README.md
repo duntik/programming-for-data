@@ -28,13 +28,21 @@ Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoq
 
 :heavy_check_mark: **SPRINT 2**
 
+Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard") 
+
 :heavy_check_mark: **SPRINT 3**
 
-:heavy_exclamation_mark: **SPRINT 4**
+[Hello World](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%203 "Hello World") 
+
+:o: **SPRINT 4**
+
+[Ex. 1-2](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%204 "Ex. 1-2") 
 
 
 
 
+## Status
 Complited :heavy_check_mark:
 In Process :heavy_exclamation_mark:
 Not started :heavy_multiplication_x:
+Uncompleted extra tasks :o:
