@@ -1,4 +1,4 @@
-<h1 align="center">Programming for data
+<h1 align="center">Programming for data :alien:
 </h1>
 <h2 align="center">
 Data Analysis and Python (June 2021)
@@ -19,5 +19,22 @@ Data Analysis and Python (June 2021)
 <img src="https://img.shields.io/badge/Next%20Week-DATA%20ANALYTIC%20SOFTWARE%20AND%20SECURITY-red">
 </p>
   
-### Course Pathway
-**SPRINT 1**
+## Course Pathway :capital_abcd:
+### SESSION 1
+
+:heavy_check_mark: **SPRINT 1**
+
+Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard") 
+
+:heavy_check_mark: **SPRINT 2**
+
+:heavy_check_mark: **SPRINT 3**
+
+:heavy_exclamation_mark: **SPRINT 4**
+
+
+
+
+Complited :heavy_check_mark:
+In Process :heavy_exclamation_mark:
+Not started :heavy_multiplication_x:
