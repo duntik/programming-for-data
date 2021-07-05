@@ -6,5 +6,5 @@
 > 
 > Course runned by Karen Scott and Lila Rose
 
-##### Course Pathway
+### Course Pathway
 
