@@ -13,5 +13,11 @@ Data Analysis and Python (June 2021)
 
 </h3>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Current%20Week-3-brightgreen">
+<img src="https://img.shields.io/badge/Current%20Week-R,%20STATISTICS%20AND%20VISUALISATION-orange">
+<img src="https://img.shields.io/badge/Next%20Week-DATA%20ANALYTIC%20SOFTWARE%20AND%20SECURITY-red">
+</p>
+  
 ### Course Pathway
 **SPRINT 1**
