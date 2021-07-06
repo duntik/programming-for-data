@@ -25,8 +25,8 @@ Data Analysis and Python (June 2021)
 | :------------ |:---------------:|:---------------:| -----:|
 | :heavy_check_mark: *SPRINT 1* | :heavy_check_mark: *SPRINT 1* |:heavy_check_mark: *SPRINT 1* | *SPRINT 1* |
 | Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard")      | [get_notebook.sh](https://github.com/duntik/programming-for-data/tree/main/Session%202/Sprint%201 "get_notebook.sh")  | [Numpy.ipynb](https://github.com/duntik/programming-for-data/tree/main/Session%203/Sprint%201 "Numpy.ipynb") | Res4 |
-| :heavy_check_mark: *SPRINT 2*    | :heavy_check_mark: *SPRINT 2* | *SPRINT 2* | *SPRINT 2* |
-| Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard")   | [Data_retrieval.ipynb](https://github.com/duntik/programming-for-data/tree/main/Session%202/Sprint%201 "Data_retrieval.ipynb") | Res3 | Res4 |
+| :heavy_check_mark: *SPRINT 2*    | :heavy_check_mark: *SPRINT 2* | :o:*SPRINT 2* | *SPRINT 2* |
+| Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard")   | [Data_retrieval.ipynb](https://github.com/duntik/programming-for-data/tree/main/Session%202/Sprint%201 "Data_retrieval.ipynb") | [Sorting_and_cleaning.ipynb](https://github.com/duntik/programming-for-data/tree/main/Session%203/Sprint%202 "Sorting_and_cleaning.ipynb") | Res4 |
 | :heavy_check_mark: *SPRINT 3*     | :o:  *SPRINT 3* | *SPRINT 3* | *SPRINT 3* |
 | [Hello World](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%203 "Hello World")  | [Describing_data.ipynb](https://github.com/duntik/programming-for-data/blob/main/Session%202/Sprint%203 "Describing_data.ipynb") | Res3 | Res4 |
 | :o: *SPRINT 4*      | :heavy_exclamation_mark: *SPRINT 4* |
