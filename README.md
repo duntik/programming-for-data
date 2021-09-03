@@ -31,6 +31,8 @@ Data Analysis and Python (June 2021)
 | [Hello World](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%203 "Hello World")  | [Describing_data.ipynb](https://github.com/duntik/programming-for-data/blob/main/Session%202/Sprint%203 "Describing_data.ipynb") | [Wrangle_the_data.ipynb](https://github.com/duntik/programming-for-data/tree/main/Session%203/Sprint%203") | No worksheet
 | :heavy_check_mark::o: *SPRINT 4*      | :heavy_exclamation_mark: *SPRINT 4* |
 | [Ex. 1-2](https://github.com/duntik/programming-for-data/tree/main/Session%201/Sprint%204 "Ex. 1-2") | Res2 |
+
+
 | SESSION 1  | SESSION 2  | SESSION 3 | SESSION 4 | SESSION 5 |
 | :------------ |:---------------:|:---------------:| :---------------:| -----:|
 | :heavy_check_mark: *SPRINT 1* | :heavy_check_mark: *SPRINT 1* |:heavy_check_mark: *SPRINT 1* | :heavy_exclamation_mark: *SPRINT 1* | :heavy_check_mark::o: *SPRINT 1* |
