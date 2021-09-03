@@ -37,7 +37,7 @@ Data Analysis and Python (June 2021)
 | :------------ |:---------------:|:---------------:| :---------------:| -----:|
 | :heavy_check_mark: *SPRINT 1* | :heavy_check_mark: *SPRINT 1* |:heavy_exclamation_mark: *SPRINT 1* | :heavy_check_mark: *SPRINT 1* | :heavy_check_mark::o: *SPRINT 1* |
 | [C_and_models.ipynb](https://github.com/duntik/programming-for-data/blob/main/Session%206/Correlations_and_models.ipynb "Correlations_and_models.ipynb")   | [W_with_datetime.ipynb](https://github.com/duntik/programming-for-data/blob/main/Session%207/Working_with_datetime.ipynb "Working_with_datetime.ipynb")  | !!! | [Error_h_and_test.ipynbb](https://github.com/duntik/programming-for-data/blob/main/Session%209/Error_handling_and_testing.ipynb "Error_handling_and_testing.ipynb") | [D_Tree_coded_model.ipynb](https://github.com/duntik/programming-for-data/blob/main/Session%2010/Decision_Tree_coded_model.ipynb") |
-| :heavy_check_mark: *SPRINT 2*    | :heavy_check_mark: *SPRINT 2* | :heavy_check_mark::o:*SPRINT 2* | :heavy_check_mark::o:*SPRINT 2* | :heavy_exclamation_mark:*SPRINT 2* |
+| :heavy_check_mark: *SPRINT 2*    | 
 | Team "NaVi" - [JamBoard](https://jamboard.google.com/d/1jeZxbGckfsrLdZv-FocJwHoqDlJn-5JU0SgjH2FPcek/viewer "JamBoard")   |
 
 
